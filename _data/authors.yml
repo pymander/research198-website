@@ -1,3 +1,7 @@
 research198:
   name: Research Lodge of Oregon No. 198
   picture: /images/research198-logo-800px.png
+  links:
+    - title: Facebook
+      url: https://www.facebook.com/ResearchLodgeOfOregonNo198/
+      icon: fab fa-facebook-square
