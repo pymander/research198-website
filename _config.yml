@@ -41,6 +41,7 @@ kramdown:
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+skin: "/assets/css/skins/research198.css"
 plugins:
   - jekyll-feed
 permalink:   /:categories/:title/
