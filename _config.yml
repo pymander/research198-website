@@ -23,10 +23,21 @@ email: arneson@transformason.org
 description: >- # this means to ignore newlines until "baseurl:"
   Research Lodge of Oregon No. 198 exists under the auspices of the
   Grand Lodge AF&amp;AM of Oregon.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://research198.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+
+# GitHub required settings
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Build settings
 theme: jekyll-theme-so-simple
