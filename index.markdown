@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+Research Lodge of Oregon No. 198 meets at 11:00 AM on the third
+Saturday of the month at the Scottish Rite Center in beautiful
+downtown Portland, Oregon. The lodge is typically dark in July and
+August.
