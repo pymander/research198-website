@@ -1,6 +1,9 @@
 - title: Home
   url: /
 
+- title: Articles
+  url: /posts
+  
 - title: About Us
   url: /about
 
