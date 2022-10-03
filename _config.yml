@@ -48,6 +48,8 @@ permalink:   /:categories/:title/
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
+google_analytics: "G-QHF3Q68MM0"
+
 # Theme settings
 locale: en-us
 logo: images/research198-logo-800px.png
