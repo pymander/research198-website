@@ -36,7 +36,9 @@ Bro. de Hoyos hasn't been a guest on many podcasts, but he does show up from tim
 
 Get ready for Bro. de Hoyos's visit by watching this video of him at the Memphis Scottish Rite.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h0XFdaTkdGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/h0XFdaTkdGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 And remember, if you want to join us for the table lodge on the 15th ...
 
