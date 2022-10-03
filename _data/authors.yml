@@ -5,3 +5,17 @@ research198:
     - title: Facebook
       url: https://www.facebook.com/ResearchLodgeOfOregonNo198/
       icon: fab fa-facebook-square
+
+earneson:
+  name: Erik L. Arneson
+  picture: /images/research198-logo-800px.png
+  links:
+    - title: Twitter
+      url: https://twitter.com/pymander
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/pymander
+      icon: fab fa-github-square
+    - title: Website
+      url: https://transformason.org
+      icon: fas fa-globe
