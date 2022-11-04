@@ -10,8 +10,4 @@ Saturday of the month at the Scottish Rite Center in beautiful
 downtown Portland, Oregon. The lodge is typically dark in July and
 August.
 
-<div class="text-center">
-    <a class="btn btn--large" href="https://scottish-rite-inc.square.site/product/Oktoberfest_Table_Lodge/35">Table Lodge Tickets</a>
-</div>
-
 ___
