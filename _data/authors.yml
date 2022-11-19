@@ -6,9 +6,17 @@ research198:
       url: https://www.facebook.com/ResearchLodgeOfOregonNo198/
       icon: fab fa-facebook-square
 
+lccpsoc:
+  name: "Lewis & Clark Chapter of the Philalethes Society"
+  picture: /images/lccpsoc-logo.png
+  links:
+    - title: Facebook
+      url: https://www.facebook.com/lccpsoc
+      icon: fab fa-facebook-square
+
 earneson:
   name: Erik L. Arneson
-  picture: /images/research198-logo-800px.png
+  picture: /images/authors/earneson.jpg
   links:
     - title: Twitter
       url: https://twitter.com/pymander
@@ -16,6 +24,13 @@ earneson:
     - title: GitHub
       url: https://github.com/pymander
       icon: fab fa-github-square
+    - title: Mastodon
+      url: https://fosstodon.org/@pymander
+      icon: fab fa-mastodon
     - title: Website
       url: https://transformason.org
       icon: fas fa-globe
+
+dtate:
+  name: David Tate
+  picture: /images/research198-logo-800px.png
