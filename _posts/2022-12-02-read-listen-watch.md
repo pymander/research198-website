@@ -2,7 +2,7 @@
 layout: post
 title: "Read, Listen, Watch for December 2022"
 author: earneson
-date: 2022-12-01
+date: 2022-12-02
 categories: trestleboard
 permalink: /trestleboard/2022/12/read-listen-watch
 ---
