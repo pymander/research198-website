@@ -1,6 +1,6 @@
 ---
 title: Read, Listen, Watch for January 2023
-author: "Erik L. Arneson"
+author: earneson
 layout: post
 permalink: /trestleboard/2023/01/read-listen-watch
 tags:
