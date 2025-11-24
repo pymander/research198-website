@@ -16,4 +16,4 @@ Love, Relief, and Truth.
 - **Truth** is honesty, fair play, and adherence to the cardinal
   virtues of Temperance, Fortitude, Prudence, and Justice.
 
-[Learn more here.](https://www.masonic-oregon.com/faq/)
+[Learn more here.](https://oregonfreemasonry.com/how-to-become-a-mason/)
